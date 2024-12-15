@@ -114,21 +114,6 @@ Hyperbolic Graph Convolutional Networks (HGCNs) effectively represent hierarchic
 
 ---
 
-## Citation
-
-If you find this work useful, please cite:
-
-```
-@article{krishna2024dynamiccurvature,
-  title={Dynamic Curvature Optimization for Hyperbolic GCNs},
-  author={Krishna, Ananya and Kohli, Arjan},
-  journal={Yale University},
-  year={2024}
-}
-```
-
----
-
 ## License
 This project is licensed under the MIT License.
 
